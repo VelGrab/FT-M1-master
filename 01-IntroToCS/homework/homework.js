@@ -8,7 +8,7 @@ function BinarioADecimal(num) {
    decimal += Math.pow(2, num.length - i - 1) * num[i];
  }
    return decimal
- 
+   
  }
  
  function DecimalABinario(num) {
